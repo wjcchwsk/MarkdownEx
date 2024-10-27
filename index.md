@@ -76,5 +76,11 @@ This is the link to the reference file: [Additional info](reference.md)
 * Another bullet
 * Yet another bullet
 
+## Tables
 
+| Column 1 | Column 2 | Column 3 |
+| --------- | --------- | --------- |
+| Row 1 | Row 1 | Row 1 |
+| Row 2 | Row 2 | Row 2 |
+| Very long sentence | Another Very long sentence | Yet another Very long sentence |
 
