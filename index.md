@@ -70,7 +70,10 @@ This is a code block:
 #### Formula block
 
 This is another formula:
-$$a+b=c$$
+
+$$
+a+b=c
+$$
 
 ## Linking elements
 
