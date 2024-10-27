@@ -8,7 +8,9 @@
   - [Quote](#quote)
   - [Code and formulas](#code-and-formulas)
     - [Code phrase](#code-phrase)
+    - [Formula](#formula)
     - [Code block](#code-block)
+    - [Formula block](#formula-block)
 - [Linking elements](#linking-elements)
   - [Links to content](#links-to-content)
     - [External](#external)
@@ -52,6 +54,10 @@ This is a quote:
 
 This is a text with `void` code phrase.
 
+#### Formula
+
+This is a formula: $a+b=c$
+
 #### Code block
 
 This is a code block: 
@@ -60,6 +66,11 @@ This is a code block:
 <value>Error</value>
 </data>
 ```
+
+#### Formula block
+
+This is another formula:
+$$a+b=c$$
 
 ## Linking elements
 
@@ -106,4 +117,3 @@ This is the link to the reference file: [Additional info](reference.md)
 | Very long sentence | Another Very long sentence | Yet another Very long sentence |
 
 End of table. Test sentence.
-
