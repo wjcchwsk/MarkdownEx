@@ -62,4 +62,19 @@ This is the link to the reference file: [Additional info](reference.md)
 
 ![This is another doggo](images/doggo2.jpg "such a good boi!")
 
+## Lists
+
+### Ordered
+
+1. Point one
+2. Point two
+3. Point three
+
+### Unordered
+
+* Bullet
+* Another bullet
+* Yet another bullet
+
+
 
