@@ -48,4 +48,4 @@ This is an example of a [Weather forecast (https://www.meteo.pl/)](https://www.m
 
 #### Internal
 
-This is the link to the reference file: [Additionnal info](reference.md)
+This is the link to the reference file: [Additional info](reference.md)
