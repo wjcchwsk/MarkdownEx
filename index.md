@@ -58,9 +58,7 @@ This is the link to the reference file: [Additional info](reference.md)
 
 #### Internal
 
-![This is a doggo](images/doggo.png "this is a doggo")
-
-![This is another doggo](images/doggo2.jpg "such a good boi!")
+![This is a doggo](images/doggo2.jpg "such a good boi!")
 
 ## Lists
 
@@ -84,3 +82,4 @@ This is the link to the reference file: [Additional info](reference.md)
 | Row 2 | Row 2 | Row 2 |
 | Very long sentence | Another Very long sentence | Yet another Very long sentence |
 
+End of table. Test sentence.
