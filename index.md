@@ -37,3 +37,12 @@ This is a code block:
 <value>Error</value>
 </data>
 ```
+
+## Linking elements
+
+### Links to content
+
+#### External
+
+This is an example of a [Weather forecast (https://www.meteo.pl/)](https://www.meteo.pl/).
+
