@@ -49,3 +49,17 @@ This is an example of a [Weather forecast (https://www.meteo.pl/)](https://www.m
 #### Internal
 
 This is the link to the reference file: [Additional info](reference.md)
+
+### Images
+
+#### External
+
+![Random image](https://picsum.photos/200 "this is a random image from the internet")
+
+#### Internal
+
+![This is a doggo](images/doggo.png "this is a doggo")
+
+![This is another doggo](images/doggo2.jpg "such a good boi!")
+
+
